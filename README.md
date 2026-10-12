@@ -241,10 +241,3 @@ cd frontend && npm run build
 
 ---
 
-## 📝 Recent Updates (v2.0.1)
-
-- **Database**: Switched from JSON file fallback to MongoDB-only persistence with in-memory cache
-- **MongoDB**: Default connection now uses local MongoDB (`localhost:27017`) for easier setup
-- **Frontend**: Increased base font size to 16px for better desktop readability
-- **Theme**: Updated to Warm & Earthy palette with CSS custom properties
-- **Images**: Added automatic food image matching based on description/category with SVG fallbacks
